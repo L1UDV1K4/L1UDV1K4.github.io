@@ -6,7 +6,14 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 19:30:00 +0200</lastBuildDate>
     <atom:link href="https://L1UDV1K4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liudvikos pirmas Hugo puslapis</title>
+      <link>https://L1UDV1K4.github.io/posts/pavadinimas/</link>
+      <pubDate>Sat, 06 Dec 2025 19:30:00 +0200</pubDate>
+      <guid>https://L1UDV1K4.github.io/posts/pavadinimas/</guid>
+      <description>&lt;p&gt;Valio&#xA;&lt;img src=&#34;https://L1UDV1K4.github.io/img/dontturn25.jpg&#34; alt=&#34;Nuotrauka&#34;&gt;&#xA;&lt;img src=&#34;https://L1UDV1K4.github.io/img/dog-burning.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
