@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Liudvikos tinklaraštis</title>
+        <link>https://L1UDV1K4.github.io/posts/</link>
+        <description>Recent content in Posts on Liudvikos tinklaraštis</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 06 Dec 2025 19:30:00 +0200</lastBuildDate>
+        <atom:link href="https://L1UDV1K4.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Liudvikos pirmas Hugo puslapis</title>
+            <link>https://L1UDV1K4.github.io/posts/pavadinimas/</link>
+            <pubDate>Sat, 06 Dec 2025 19:30:00 +0200</pubDate>
+            
+            <guid>https://L1UDV1K4.github.io/posts/pavadinimas/</guid>
+            <description>&lt;p&gt;Valio
+&lt;img src=&#34;https://L1UDV1K4.github.io/img/dontturn25.jpg&#34; alt=&#34;Nuotrauka&#34;&gt;
+&lt;img src=&#34;https://L1UDV1K4.github.io/img/dog-burning.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Valio
+<img src="/img/dontturn25.jpg" alt="Nuotrauka">
+<img src="/img/dog-burning.gif" alt="gif"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Mano pirmasis įrašas</title>
+            <link>https://L1UDV1K4.github.io/posts/labas/</link>
+            <pubDate>Fri, 24 Oct 2025 15:31:49 +0000</pubDate>
+            
+            <guid>https://L1UDV1K4.github.io/posts/labas/</guid>
+            <description>&lt;h1 id=&#34;sveiki-atvykę&#34;&gt;Sveiki atvykę!&lt;/h1&gt;
+&lt;p&gt;Šis puslapis sukurtas naudojant &lt;strong&gt;Hugo&lt;/strong&gt; ir &lt;strong&gt;Debesų kompiuterijos&lt;/strong&gt; žinias.&lt;/p&gt;
+&lt;h3 id=&#34;kodėl-aš-tai-darau&#34;&gt;Kodėl aš tai darau?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noriu išmokti kurti greitas svetaines.&lt;/li&gt;
+&lt;li&gt;Tai yra puiki praktika.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://L1UDV1K4.github.io/&#34;&gt;Eiti į pagrindinį puslapį&lt;/a&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h1 id="sveiki-atvykę">Sveiki atvykę!</h1>
+<p>Šis puslapis sukurtas naudojant <strong>Hugo</strong> ir <strong>Debesų kompiuterijos</strong> žinias.</p>
+<h3 id="kodėl-aš-tai-darau">Kodėl aš tai darau?</h3>
+<ul>
+<li>Noriu išmokti kurti greitas svetaines.</li>
+<li>Tai yra puiki praktika.</li>
+</ul>
+<p><a href="/">Eiti į pagrindinį puslapį</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
